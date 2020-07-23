@@ -20,7 +20,13 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api?username=ghpranav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<a href="https://github.com/ghpranav">
+<img src="https://github-readme-stats.vercel.app/api?username=ghpranav&show_icons=true&theme=dracula&line_height=27" alt="Pranav Bedre's github stats">
+</a>
+
+<a href="https://github.com/ghpranav">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpranav&theme=dark&hide_langs_below=1" />
+</a>
 
 <!--
 **ghpranav/ghpranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
