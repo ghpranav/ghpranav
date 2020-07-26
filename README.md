@@ -21,7 +21,7 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/ghpranav">
-<img src="https://github-readme-stats.vercel.app/api?username=ghpranav&show_icons=true&theme=dracula&line_height=27" alt="Pranav Bedre's github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ghpranav&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Pranav Bedre's github stats">
 </a>
 
 <a href="https://github.com/ghpranav">
