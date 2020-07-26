@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://github.com/ghpranav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpranav&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpranav&theme=dark&hide=makefile" />
 </a>
 
 <!--
