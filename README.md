@@ -21,11 +21,11 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/ghpranav">
-<img src="https://github-readme-stats.vercel.app/api?username=ghpranav&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Pranav Bedre's github stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghpranav&show_icons=true&theme=dark&line_height=27&count_private=true" alt="Pranav Bedre's github stats">
 </a>
 
 <a href="https://github.com/ghpranav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpranav&theme=dark&hide=makefile" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghpranav&theme=dark&hide=makefile,C&layout=compact" />
 </a>
 
 <!--
