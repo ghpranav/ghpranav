@@ -1,5 +1,6 @@
 <h1 align='center'> Hi there 👋</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghpranav&label=Views&color=blue&style=plastic" alt="ghpranav" /> </p>
 
 <p align='center'>I am a Software Engineer Student focused on Flutter and Web Apps Development. </p>
 
@@ -20,8 +21,10 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
+_NOTE: Top languages does not indicate my skill level or anything like that, it's a github metric of which languages I have the most code on my public repositories._
+
 <a href="https://github.com/ghpranav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghpranav&show_icons=true&theme=dark&line_height=27&count_private=true" alt="Pranav Bedre's github stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghpranav&include_all_commits=true&show_icons=true&theme=dark&line_height=27&count_private=true" alt="Pranav Bedre's github stats">
 </a>
 
 <a href="https://github.com/ghpranav">
